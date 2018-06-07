@@ -138,7 +138,9 @@ html,body{
   line-height: 1.0133333333333334rem;
 }
 .title_word{
-  padding-left: 1.7866666666666666rem;
+/*   padding-left: 1.7866666666666666rem; */
+  text-indent: 2.5em;
+  display: inline-block;
 }
 .date{
   padding: 0.18666666666666668rem 0;
